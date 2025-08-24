@@ -1,0 +1,2 @@
+age,sex,trestbps,chol,fbs,thalach,exang,oldpeak,ca,smoking,diabetes,bmi,age_group,chol_age_ratio,bp_high,hr_reserve,risk_factors,st_risk,bmi_category,age_x_chol,bmi_x_chol,thalach_x_age,chol_high,chol_low,max_hr_predicted,hr_percent,weighted_risk
+50,0,120,200,0,150,0,1.0,0,0,0,19.0,1,4.0,0,100,0,1.0,1,10000,3800.0,7500,0,0,170,0.8823529411764706,0
